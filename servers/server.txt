@@ -1,0 +1,14 @@
+Bl42ZkSqODL92DQ0MPz2hjPx.UPnGgr.rTZUA8BPtKMJGYCoixsIJkORdxN [< Bot token here{Replace example with yours and DO NOT SHARE!!!}]
+517032002921866360 [< Server id here{Replace example with yours!!!}]
+General, testing-channel, [< Channels list,can be used to only make bot work in certain channels if you code this in {Replace examples with channels or leave blank}]
+My-Bot#1982, madlad962#8718, [< Users here, can be used to code a white/black list for certain features of your bot {Replace example with users or leave blank!!!}]
+
+
+
+########################################################################################################################################
+#HOW TO find Bot Token and server id: https://github.com/Chikachi/DiscordIntegration/wiki/How-to-get-a-token-and-channel-ID-for-Discord#
+#																																	   #
+# Made by: Fab Long ©																												   #
+# https://github.com/FabLong/Basic-Discord-Bot << more info here																	   #
+########################################################################################################################################
+
