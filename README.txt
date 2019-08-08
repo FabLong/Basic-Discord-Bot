@@ -1,6 +1,6 @@
 # Basic-Discord-Bot
 
-STEP1: Donwload Bot.py and folder: servers
+STEP1: Download Bot.py and folder: servers
 STEP2: Read below STEPS to help install discord.py
 STEP3: Open server.txt file in servers folder. Change what's inside so it is specific to you. [It assumes yout bot is setup in discord developers section]
 STEP4: Run Bot and test it works.
