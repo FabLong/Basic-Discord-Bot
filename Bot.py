@@ -63,7 +63,7 @@ async def on_message(message):
     # get time and version printed in server
     elif message.content == "!test":
         # the message below is embedded into the Discord chat using ```[TEXT-HERE]```
-        await message.channel.send(f"```Cloud: Online\nTime: {time.ctime()}\nVersion: {version}```")
+        await message.channel.send(f"```Server: Online\nTime: {time.ctime()}\nVersion: {version}```")
 
 ########################################################################################################################
 
